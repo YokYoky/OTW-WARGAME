@@ -1,3 +1,5 @@
+# OTW-WARGAME
+============
 # Level 0 
 *The goal of this level is for you to log into the game using SSH. The host to which you need to connect is bandit.labs.overthewire.org, on port 2220. The username is bandit0 and the password is bandit0. Once logged in, go to the Level 1 page to find out how to beat Level 1.*
 
@@ -201,6 +203,5 @@ bandit6@bandit:~$ cat /var/lib/dpkg/info/bandit7.password
 z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 ```
 Flag: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
-=======
-# OTW-WARGAME
+
 
