@@ -71,6 +71,7 @@ password: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 ```
 *The password for the next level is stored in a file called spaces in this filename located in the home directory*
 **![](https://lh4.googleusercontent.com/ie5Gx_SrEzG62BfYMNPH_15HAWkT9T1xDuXHzBWv02erQx-qELtNIoWq_D4mtBhKlLosqLcf1BwMCq-18ewn03FTdeOSxxnZv3LNFsPxw3F3CwGK9iv4b8ENqAiqukUBjRcnWIYyRAJEmsIpUCkFVDM)**
+
 to handle the file that has spaces, you need to use blackslash before the spaces.
 ```console
 bandit2@bandit:~$ ls
@@ -91,10 +92,15 @@ password: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 **![](https://lh3.googleusercontent.com/VZmrYxgPhNL5H-q8Ecy9wgKOkeyXXF7ARJr_oi5aptbuzx7WgAdWd_-SijmVAqgKT6ssIkBlXqFIHgvewa1s6s5SlRMyt0fFZBDeD4rJObK5lCE5d2389Zg3RAyOhHFe-29Vj3bFK9e8cRJTXlkiJOU)**
 
 > ls - **display the files and directories of your current directory**
+> 
 > file - **identify what kind of file type of a file**
+> 
 > cat - **display the contents of a file**
+> 
 > cd - **change directory**
+> 
 > du - **displays the number of blocks used for files**.
+> 
 > find - **find files and directories with operations**
 
 **we don't need to use every command**
