@@ -1,5 +1,5 @@
-# OTW-WARGAME
-============
+# OTW-WARGAME BANDIT
+
 # Level 0 
 *The goal of this level is for you to log into the game using SSH. The host to which you need to connect is bandit.labs.overthewire.org, on port 2220. The username is bandit0 and the password is bandit0. Once logged in, go to the Level 1 page to find out how to beat Level 1.*
 
@@ -21,10 +21,15 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 ![level0-1](https://lh4.googleusercontent.com/s0NxVXkq9TlxyKjQK8psUwrim2SrZcWMm4wZSbkVSIfV08WJF0Je6toSf5NFwLHZK-COQISy_iaZRUVMxfvzqQx5PdCPRX8imYDdBFFyPa6bWn6m9d8vNsSZ0WZD-qMn94Uro3FqY9XFd76VLOVSBEQ)
 
 > ls - **display the files and directories of your current directory**
+> 
 > file - **identify what kind of file type of a file**
+> 
 > cat - **display the contents of a file**
+> 
 > cd - **change directory**
+> 
 > du - **displays the number of blocks used for files**.
+> 
 > find - **find files and directories with operations**
 
 **we don't need to use every command**
